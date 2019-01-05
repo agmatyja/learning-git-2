@@ -15,6 +15,7 @@ h2 {
     font-size: 16px;
 	color: red;
    	text-decoration: none;
+	display: -ms-flexbox;
 	display: flex;
 }
 p {
